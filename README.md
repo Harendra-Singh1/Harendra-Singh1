@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harendra-Singh1
+- 👋 Hi, I’m Harendra Singh 
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking for a job now
